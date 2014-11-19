@@ -16,7 +16,7 @@
     <div class="text-left">
         <div class="text">
             <h1><b>Posto7</b></br>Messages</h1>
-            <h3>I redesign "Questions and Answers" in order to make it more easy for the user to exchange info about places, nightlife and restaurants. I redesign the Sidebar and User Profile too.</h3>
+            <h3>I redesigned "Questions and Answers" in order to make it more easy for the user to exchange info about places, nightlife and restaurants. I redesign the Sidebar and User Profile too.</h3>
         </div>
     </div>
     <div class="img-right">
@@ -32,7 +32,7 @@
     <div class="text-left">
         <div class="text">
             <h1><b>Xapo</b> Chat</h1>
-            <h3>I designed a concept chat app which allows users to send Bits easy through the Chat screen.</h3>
+            <h3>I designed a concept chat app which allows users to send Bits easily through the Chat screen.</h3>
         </div>
     </div>
 
@@ -42,7 +42,7 @@
     <div class="text-left">
         <div class="text">
             <h1><b>Popcorn</b>Time!</h1>
-            <h3>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</h3>
+            <h3>Via Github I had the honor to iterate in this awesome app. I brought a new layout without sidebar, which was taken by the app Founders to get it to the next level.</h3>
         </div>
     </div>
     <div class="img-right">
