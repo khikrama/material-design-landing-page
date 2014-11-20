@@ -8,11 +8,11 @@
     <meta name="description" content=""/>
     <meta name="keywords" content=""/>
     <meta name="robots" content="INDEX, FOLLOW"/>
-    <meta name="author" content="Matias E. Benitez Diaz"/>
+    <meta name="author" content="Evil Rabbit"/>
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui"/>
 
-    <link rel="icon" href="assets/images/favicon.ico" type="image/icon"/>
+    <link rel="icon" href="app/img/favicon.ico" type="image/icon"/>
     <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon"/>
 
     <meta name="X-UA-Compatible" content="IE=edge"/>
