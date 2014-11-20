@@ -15,7 +15,7 @@
 <div class="project" data-index="1" data-color="#01acf0">
     <div class="text-left">
         <div class="text">
-            <h1><b>Posto7</b></br>Questions & Answers</h1>
+            <h1><b>iOS App</b></br>Messaging Feature</h1>
             <h3>I redesigned "Questions and Answers" in order to make it easier for the user to exchange info about places, nightlife and restaurants. I redesigned the Sidebar and User Profile too.</h3>
         </div>
     </div>
