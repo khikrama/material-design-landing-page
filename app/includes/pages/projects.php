@@ -15,7 +15,7 @@
 <div class="project" data-index="1" data-color="#01acf0">
     <div class="text-left">
         <div class="text">
-            <h1><b>Posto7</b></br>Messages</h1>
+            <h1><b>Posto7</b></br>Questions & Answers</h1>
             <h3>I redesigned "Questions and Answers" in order to make it easier for the user to exchange info about places, nightlife and restaurants. I redesigned the Sidebar and User Profile too.</h3>
         </div>
     </div>
@@ -24,15 +24,15 @@
     </div>
 </div>
 
-<div class="project" data-index="2" data-color="#ff3b30">
+<div class="project" data-index="2" data-color="#00a3a4">
 
     <div class="img-right">
         <img src="app/img/projects/xapochat.png" height="100%" alt="" />
     </div>
     <div class="text-left">
         <div class="text">
-            <h1><b>Xapo</b> Chat</h1>
-            <h3>I designed a concept chat app which allows users to send Bits easily through the Chat screen.</h3>
+            <h1><b>MTV</b> Like or Not</h1>
+            <h3>I designed a concept app to test MTV audience.</h3>
         </div>
     </div>
 
