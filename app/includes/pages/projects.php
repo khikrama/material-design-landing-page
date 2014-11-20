@@ -27,7 +27,7 @@
 <div class="project" data-index="2" data-color="#00a3a4">
 
     <div class="img-right">
-        <img src="app/img/projects/xapochat.png" height="100%" alt="" />
+        <img src="app/img/projects/mtv.png" height="100%" alt="" />
     </div>
     <div class="text-left">
         <div class="text">
