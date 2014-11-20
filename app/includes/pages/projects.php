@@ -41,7 +41,7 @@
 <div class="project" data-index="3" data-color="#2b71d8">
     <div class="text-left">
         <div class="text">
-            <h1><b>Popcorn</b>Time!</h1>
+            <h1><b>PopcornTime!</b></h1>
             <h3>Via Github I had the honor to iterate in this awesome app. I brought a new layout without sidebar, which was taken by the app Founders to get it to the next level.</h3>
         </div>
     </div>
